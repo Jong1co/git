@@ -37,3 +37,5 @@ upstream 적용: git push --set-upstream origin dev
 동시에 트래킹 브랜치로 설정함
 
 git push --set-upstream origin <branch name>
+
+git config push.default current -> 현재 브랜치를 자동으로 원격 저장소의 동일한 이름의 브랜치로 푸쉬함
