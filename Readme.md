@@ -31,3 +31,7 @@ staging 되지 않은 내용들은 보이지 않음
 git diff --staged === git diff --cached
 
 git diff [commit hash] [commit hash] : 커밋간 변경사항 확인22 22
+
+upstream 적용: git push --set-upstream origin dev
+-> 트래킹 브랜치가 없을 때 해당 명령어를 사용하여 dev를 원격저장소인 origin으로 푸시하고
+동시에 트래킹 브랜치로 설정함
