@@ -1,3 +1,0 @@
-[submodule "sub-lib"]
-	path = sub-lib
-	url = https://github.com/Jong1co/sub-lib.git
