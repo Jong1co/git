@@ -30,4 +30,4 @@ staging 되지 않은 내용들은 보이지 않음
 
 git diff --staged === git diff --cached
 
-git diff [commit hash] [commit hash] : 커밋간 변경사항 확인22
+git diff [commit hash] [commit hash] : 커밋간 변경사항 확인22 22
