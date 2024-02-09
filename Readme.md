@@ -23,3 +23,5 @@ index 0000000..cfa8b41
 - git diff, git diff HEAD : 변경사항 확인
 - git diff [option] [file name] : 특정한 파일에 대한 변경사항
 - git diff [branch1].. [branch2] : 브랜치 간 변경사항
+
+git diff --staged : staging area와 repository head 커밋 사이의 변경사항 확인
