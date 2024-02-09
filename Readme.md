@@ -25,3 +25,7 @@ index 0000000..cfa8b41
 - git diff [branch1].. [branch2] : 브랜치 간 변경사항
 
 git diff --staged : staging area와 repository head 커밋 사이의 변경사항 확인
+
+staging 되지 않은 내용들은 보이지 않음
+
+git diff --staged === git diff --cached
